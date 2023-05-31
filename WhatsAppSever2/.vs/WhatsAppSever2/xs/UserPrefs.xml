@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BC85703D-91D1-4E5A-A533-8990129E6151}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatsAppSever2/Modules/SocketServer.cs">
+    <Files>
+      <File FileName="WhatsAppSever2/Program.cs" />
+      <File FileName="WhatsAppSever2/Modules/Packet.cs" />
+      <File FileName="WhatsAppSever2/Modules/SocketServer.cs" Line="47" Column="37" />
+      <File FileName="WhatsAppSever2/Modules/Message.cs" Line="37" Column="13" />
+      <File FileName="WhatsAppSever2/Modules/Conversation.cs" />
+      <File FileName="WhatsAppSever2/Modules/User.cs" />
+      <File FileName="WhatsAppSever2/Modules/Validator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhatsAppSever2" expanded="True">
+            <Node name="WhatsAppSever2" expanded="True">
+              <Node name="Modules" expanded="True">
+                <Node name="SocketServer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.WhatsAppSever PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

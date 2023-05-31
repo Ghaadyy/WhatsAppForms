@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BC85703D-91D1-4E5A-A533-8990129E6151}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatsAppSever PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatsAppSever2/Program.cs">
+    <Files>
+      <File FileName="WhatsAppSever2/Program.cs" Line="18" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhatsAppSever" expanded="True">
+            <Node name="WhatsAppSever" expanded="True">
+              <Node name="Modules" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
